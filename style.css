@@ -1,0 +1,102 @@
+/*Homework */
+
+h1 {
+  text-align: center;
+  font-size: 36px;
+  background-color: #D6EAF8;
+  color: #336699;
+}
+
+h2 {
+  color: #336699;
+}
+
+h3 {
+  color: #336699;
+}
+body {
+  padding: 0;
+  margin: 0;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 18px;
+  line-height: 150%;
+  color: #2471A3;
+  background: #D6EAF8;
+  word-wrap: break-word;
+}
+
+img {
+  box-shadow: 1px 1px 1px grey;
+
+}
+
+section {
+  background-color:#D6EAF8;
+}
+
+p {
+
+  padding-left: 20px;
+  padding-right: 20px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 13px;
+  color:#2471A3;
+}
+
+ul {
+  border-style: solid;
+  color: black;
+}
+li {
+ display: block;
+ transition-duration: 0.5s;
+}
+box {
+  padding-left: 20px;
+
+}
+
+#landingpage {
+  color: #2471A3;
+  font-size: 13px;
+  margin-left: 10px;
+  padding-left: 10px;
+}
+#PlotsText {
+
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 18px;
+  color: #2471A3;
+  line-height: 200%;
+  column-width: 100%;
+  vertical-align: middle;
+
+
+}
+#DetailText {
+
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 22px;
+  color: #197730;
+  line-height: 115%;
+  column-width: 100%;
+
+
+}
+
+#PlotsTextCon {
+
+  font-family: Georgia, "Times New Roman", Times, serif;
+  padding-top: 35px;
+  font-size: 18px;
+  color: #2471A3;
+  line-height: 125%;
+  column-width: 100%
+
+
+}
+
+#data-table {
+  
+color: black;
+}
